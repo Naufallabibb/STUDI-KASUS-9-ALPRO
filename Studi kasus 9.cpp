@@ -97,7 +97,6 @@ void sorting::output() {
 			}
 			cout<<endl;
 		}
-
         cout<<"=================================================="<<endl;
         cout<<endl;
 }
